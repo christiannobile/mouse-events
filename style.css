@@ -1,0 +1,11 @@
+body {
+    display: flex;
+}
+#xCoordinate,
+#yCoordinate {
+    width: 100vw;
+    height: 100vh;
+}
+.hoverMe {
+display: inline-block;
+}

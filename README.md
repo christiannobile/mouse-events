@@ -1,1 +1,2 @@
-# mouse-events
+# DOM
+Javascript: Document Object Model
